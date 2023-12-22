@@ -1,0 +1,19 @@
+Ringkasan Arsitektur:
+1.Golang sebagai Bahasa Pemrograman:
+Logika bisnis, penanganan HTTP, dan akses database.
+
+2.MySQL sebagai Database:
+Sistem manajemen basis data relasional untuk menyimpan dan mengelola data.
+
+3.Gin sebagai Framework Web:
+Membantu dalam membuat dan menangani API RESTful dengan cepat.
+
+4.Gorm sebagai ORM:
+Memfasilitasi akses dan manipulasi data dalam MySQL dengan cara yang abstrak.
+
+5.JWT untuk Otentikasi:
+Digunakan untuk menghasilkan token otentikasi dan menangani otentikasi pengguna.
+Arsitektur ini menggabungkan kekuatan Golang untuk kinerja dan konkurensi, 
+MySQL untuk penyimpanan data yang andal, Gin untuk mempercepat pengembangan API, 
+Gorm untuk menyederhanakan akses basis data, dan JWT untuk otentikasi yang aman. 
+Kombinasi ini menciptakan lingkungan pengembangan yang efisien dan tangguh.

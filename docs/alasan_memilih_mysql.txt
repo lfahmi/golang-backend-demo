@@ -1,0 +1,21 @@
+Penggunaan MySQL dipilih karena beberapa alasan:
+
+Ketersediaan dan Kekuatan: MySQL adalah sistem manajemen basis data relasional (RDBMS) yang handal dan telah teruji. 
+Ini memiliki dukungan komunitas yang kuat dan digunakan secara luas di industri.
+
+Performa yang Baik: MySQL menawarkan performa yang baik, khususnya untuk aplikasi dengan volume data dan permintaan tinggi. 
+Ini cocok untuk kebutuhan aplikasi yang membutuhkan respons cepat.
+
+Kemudahan Penggunaan: MySQL memiliki antarmuka yang ramah pengguna dan dokumen yang lengkap, menjadikannya pilihan yang 
+baik untuk pengembang yang ingin bekerja dengan basis data relasional dengan mudah.
+
+Ketersediaan Alat dan Dukungan:
+
+MySQL memiliki beragam alat manajemen, pemantauan, dan pemulihan yang tersedia.
+Komunitas yang besar menyediakan dukungan dan solusi untuk berbagai masalah.
+Kompatibilitas dan Integrasi:
+
+MySQL kompatibel dengan berbagai platform dan dapat diintegrasikan dengan mudah ke dalam aplikasi Golang.
+Dukungan Gorm, ORM yang digunakan dalam proyek ini, membuat interaksi dengan MySQL lebih mudah dan efisien.
+Dengan kombinasi keandalan, performa, dan dukungan yang baik, MySQL menjadi pilihan yang baik untuk menyimpan dan 
+mengelola data dalam proyek Golang ini.

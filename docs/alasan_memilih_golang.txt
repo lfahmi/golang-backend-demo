@@ -1,0 +1,34 @@
+Pemilihan Golang untuk suatu proyek tertentu bergantung pada berbagai faktor dan pertimbangan. 
+Berikut adalah beberapa alasan mengapa Golang dapat menjadi pilihan yang cocok untuk proyek yang dijelaskan:
+
+Cocok untuk MIcroservice serverless dan stateless:
+Golang sering dipilih untuk membangun mikro layanan karena kinerjanya, kesederhanaannya, dan efisiensinya. 
+Ini memungkinkan pengembang membuat layanan kecil dan independen yang dapat dengan mudah didistribusikan dan diperbesar.
+
+Performance:
+Golang dikenal karena kinerjanya yang tinggi. Kompilasi ke binary machine code dan eksekusinya yang efisien 
+membuatnya sesuai untuk membangun aplikasi yang membutuhkan waktu respons cepat, seperti server web dan API.
+
+Concurrent dan Scalable:
+Golang dirancang dengan konsep konkurensi. Model goroutine dan threading yang ringan membuatnya sangat cocok 
+untuk membangun sistem yang scalable dan dapat menangani banyak permintaan HTTP secara bersamaan pada API RESTful.
+
+Mudah Dipelajari:
+Golang memiliki sintaks yang bersih dan sederhana, sehingga mudah untuk dipelajari dan dibaca. Hal ini dapat 
+berkontribusi pada pengembangan yang lebih cepat dan pemeliharaan kode yang lebih mudah.
+
+Pengembangan yang Efisien:
+Golang dilengkapi dengan sistem manajemen paket bawaan (go modules) dan perpustakaan standar yang komprehensif. 
+Fitur ini memfasilitasi pengembangan yang efisien dengan menyediakan dasar yang konsisten dan kokoh untuk membangun aplikasi.
+
+Komunitas dan Ekosistem yang Kuat:
+Golang memiliki komunitas yang aktif dan berkembang. Komunitas ini berkontribusi pada ekosistem perpustakaan dan 
+kerangka kerja yang kaya, memudahkan untuk menemukan solusi untuk masalah umum dan memanfaatkan alat yang sudah ada.
+
+Konvensi Bawaan:
+Golang mendorong serangkaian konvensi yang menyederhanakan pengembangan. Struktur proyek standar, pedoman formatting, 
+dan alat bantu kontribusi pada kode yang konsisten dan membantu pengembang fokus pada penulisan logika bisnis.
+
+Kompatibilitas dengan Arsitektur Modern:
+Golang sangat cocok untuk membangun arsitektur modern seperti mikro layanan dan aplikasi serverless. 
+Kesederhanaan dan kinerjanya membuatnya cocok untuk pola arsitektur ini.
